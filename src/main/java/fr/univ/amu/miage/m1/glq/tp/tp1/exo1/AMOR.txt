@@ -1,0 +1,19 @@
+*****************1*******************
+recuperation de Exception1 fr.univ.amu.miage.m1.glq.tp.tp1.ex.GestionException$Exception1
+finally
+
+*****************2*******************
+recuperation de Exception2 fr.univ.amu.miage.m1.glq.tp.tp1.ex.GestionException$Exception2 : coucou
+finally
+
+*****************3*******************
+recuperation de Exception3 ou 4 fr.univ.amu.miage.m1.glq.tp.tp1.ex.GestionException$Exception3 : Methode3
+finally
+
+*****************4*******************
+Methode1
+Methode2
+Methode3
+Methode4
+recuperation de Exception1 fr.univ.amu.miage.m1.glq.tp.tp1.ex.GestionException$Exception1
+finally
